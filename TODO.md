@@ -1,0 +1,4 @@
+- Change the Link Color
+- Add Text Color
+- Add Image
+- Bold Text
