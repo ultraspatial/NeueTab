@@ -9,7 +9,7 @@
 Don't. But for the sake of documentation:
 1. Clone the repository.
   ```bash
-  git clone https://github.com/https_bayleaf/NeueTab
+  git clone https://github.com/httpsbayleaf/NeueTab
   ```
 2. Run using Firefox.
 ## License
