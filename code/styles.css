@@ -6,10 +6,26 @@ html, body {
   color: white;
   background-color: black;
   font-family: IBM Plex Mono;
-  line-height: 24px;
-  margin: 1%;
+  margin: 0px;
+  padding: 0px;
 }
 
-.time, .date {
+.main {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.time, .date, .links {
   display: inline-block;
+  line-height: 5px;
+}
+
+a {
+  color: blue;
+  background-color: aliceblue;
+  text-decoration: none;
+  padding: 14px 10px;
+  text-align: left;
+  text-decoration: none;
 }
