@@ -10,6 +10,7 @@ Don't. But for the sake of documentation:
 1. Clone the repository.
   ```bash
   git clone https://github.com/https_bayleaf/NeueTab
+  ```
 2. Run using Firefox.
 ## License
 This project is licensed under a GNU GPL license - See the LICENSE file for more details.
