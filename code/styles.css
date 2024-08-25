@@ -16,7 +16,7 @@ html, body {
   padding: 10px;
 }
 
-.time, .date, .links {
+.time, .date, .links, .search {
   display: inline-block;
   line-height: 5px;
 }
@@ -28,4 +28,19 @@ a {
   padding: 14px 10px;
   text-align: left;
   text-decoration: none;
+}
+
+form input[type="search"] {
+  border: none;
+  width: 39em;
+  text-align: left;
+  font: inherit;
+  background-color: aliceblue;
+  padding: .5em 1em;
+}
+
+form input::placeholder {
+  color: blue;
+  opacity: 50%;
+  font-weight: 600;
 }
