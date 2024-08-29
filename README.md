@@ -5,6 +5,7 @@
 - Clock
 - Date
 - Links
+- Search Bar
 ## Installation
 Don't. But for the sake of documentation:
 1. Clone the repository.
