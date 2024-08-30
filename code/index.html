@@ -3,34 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Site Properties -->
   <title>Neue Tab</title>
+  <link rel="icon" type="image/x-icon" href="attachments/monitor_blue_grad-0.ico">
+  <!-- CSS and JS links -->
   <script src="script.js"> </script>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Contents -->
   <div class="main">
-    <p><b>piko@firefox</b></p>
+    <p class="title"><b>piko@firefox</b></p>
     <p>------------</p>
-    <p class="time"><b>Time:</b></p>
-    <p id="time" class="time"></p>
+    <p class="time">Time:</p>
+    <p id="time" class="time" style="font-weight: 800;"></p>
     <br>
-    <p class="date"><b>Date:</b></p>
-    <p id="date" class="date"></p>
+    <p class="date">Date:</p>
+    <p id="date" class="date" style="font-weight: 800;"></p>
     <br>
-    <p class="links"><b>Links:</b></p>
+    <p class="links">Links:</p>
     <a class="links" href="obsidian://open/?vault=North Star">North Star</a>
     <a class="links" href="obsidian://open/?vault=School Vault">Academics</a>
     <a class="links" href="https://www.youtube.com/feed/subscriptions">Youtube</a>
     <a class="links" href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>
     <a class="links" href="https://singlelogin.re/">ZLibrary</a>
     <br>
-    <p class="search"><b>Search:</b></p>
+    <br>
     <form action="https://duckduckgo.com/" method="GET">
-      <input autofocus
-             name="q"
-             type="search"
-             placeholder=">Surf The Web">
+      <input autofocus name="q" type="search" placeholder=">Surf The Web" autocomplete="off">
     </form>
   </div>
+  <footer>
+    <p>New Tab by Pikobyte :3</p>
+  </footer>
 </body>
 </html>
