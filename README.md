@@ -1,6 +1,6 @@
-<p align="center">
-# NeueTab
-</p>
+<h1 align="center">
+NeueTab
+</h1>
 
 NeueTab is a start-page for Firefox, inspired by Neofetch and other command-line applications. It is currently a work-in-progress, with more features planned for the future.
 ## Features
