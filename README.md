@@ -10,7 +10,7 @@ NeueTab is a start-page for Firefox, inspired by Neofetch and other command-line
 - Looks like Neofetch if you squint really hard. Promise.
 ## Installation
 ### Option 1: Live Preview
-A [live preview](https://httpsbayleaf.github.io/NeueTab/code/) of NeueTab is hosted on Github. This is how I use it.
+A [live preview](https://pikobyte-exe.github.io/NeueTab/code/) of NeueTab is hosted on Github. This is how I use it.
 ### Option 2: Fork This Repo
 You can fork this repo and host your own live preview with Github Pages.
 ### Option 3: Self-Hosting
