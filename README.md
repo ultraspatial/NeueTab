@@ -1,7 +1,8 @@
 <h1 align="center">
 NeueTab
 </h1>
-**Note: I will not be continuing development of this project, as difficulties with hosting and Zen Browser disabling the new tab has led me to stop using this.**
+** Note: I will not be continuing development of this project, as difficulties with hosting and Zen Browser disabling the new tab has led me to stop using this. **
+
 NeueTab is a start-page for Firefox, inspired by Neofetch and other command-line applications. It is currently a work-in-progress, with more features planned for the future.
 ## Features
 - Date and Time
